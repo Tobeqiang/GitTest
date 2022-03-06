@@ -6,6 +6,7 @@ public class dome1 {
         System.out.println("777777");
         System.out.println("888888");
         System.out.println("h99999");
+        System.out.println("haaaaa");
         System.out.println("mbbbbb");
     }
 }
